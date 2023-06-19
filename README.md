@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wasiq-Wadud
-- 👀 I’m interested in computing, philisophy, psychology, and emerging market development
+- 👀 I’m interested in computing, philisophy, psychology, and emerging markets development
 - 🌱 I’m currently learning Python, Java, JavaScript
 - 💞️ I’m looking to collaborate on anything to improve my coding skills! 
 - 📫 How to reach me by email at w.wadud@queensu.ca 
